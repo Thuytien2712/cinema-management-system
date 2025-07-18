@@ -1,0 +1,40 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+## Visual Studio folders
+.vs/
+
+## File system
+Thumbs.db
+Desktop.ini
+
+## Auto-generated files
+*.cache
+*.log
+*.pdb
+*.dbmdl
+*.db
+*.bak
+*.tmp
+*.FileListAbsolute.txt
+
+## Others
+_ReSharper*/
+*.ncb
+*.sbr
+*.aps
+*.class
+*.psess
+*.vsp
+*.vspscc
+*.vssscc
+*.orig

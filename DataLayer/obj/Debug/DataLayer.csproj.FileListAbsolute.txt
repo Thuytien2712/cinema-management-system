@@ -1,0 +1,79 @@
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\CKLTCSDL\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CKLTCSDL\DataLayer\bin\Debug\DataLayer.dll
+D:\CKLTCSDL\DataLayer\bin\Debug\DataLayer.pdb
+D:\CKLTCSDL\DataLayer\bin\Debug\TransferObject.dll
+D:\CKLTCSDL\DataLayer\bin\Debug\TransferObject.pdb
+D:\CKLTCSDL\DataLayer\bin\Debug\TransferObject.dll.config
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.dll
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.pdb
+D:\CKLTCSDL\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\bin\Debug\DataLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\bin\Debug\DataLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\bin\Debug\TransferObject.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\bin\Debug\TransferObject.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\bin\Debug\TransferObject.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\DataLayer\obj\Debug\DataLayer.pdb
+D:\Lập trình CSDL\Doan\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Lập trình CSDL\Doan\DataLayer\bin\Debug\DataLayer.dll
+D:\Lập trình CSDL\Doan\DataLayer\bin\Debug\DataLayer.pdb
+D:\Lập trình CSDL\Doan\DataLayer\bin\Debug\TransferObject.dll
+D:\Lập trình CSDL\Doan\DataLayer\bin\Debug\TransferObject.pdb
+D:\Lập trình CSDL\Doan\DataLayer\bin\Debug\TransferObject.dll.config
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.dll
+D:\Lập trình CSDL\Doan\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\bin\Debug\TransferObject.dll
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\bin\Debug\TransferObject.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\bin\Debug\TransferObject.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\DataLayer\obj\Debug\DataLayer.pdb
+D:\Tmp\ok\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Tmp\ok\DataLayer\bin\Debug\DataLayer.dll
+D:\Tmp\ok\DataLayer\bin\Debug\DataLayer.pdb
+D:\Tmp\ok\DataLayer\bin\Debug\TransferObject.dll
+D:\Tmp\ok\DataLayer\bin\Debug\TransferObject.pdb
+D:\Tmp\ok\DataLayer\bin\Debug\TransferObject.dll.config
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.dll
+D:\Tmp\ok\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\TransferObject.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\TransferObject.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\TransferObject.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\DataLayer\bin\Debug\Zen.Barcode.Core.dll

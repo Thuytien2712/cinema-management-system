@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\qlphongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlphongchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\qlsuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlsuatchieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|d:\\\u0111\u1ED3 \u00E1n ltcsdl\\qlyrapchieuphim\\rapchieuphim\\rapchieuphim\\rapchieuphim\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|d:\\\u0111\u1ED3 \u00E1n ltcsdl\\qlyrapchieuphim\\rapchieuphim\\rapchieuphim\\rapchieuphim\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|d:\\\u0111\u1ED3 \u00E1n ltcsdl\\qlyrapchieuphim\\rapchieuphim\\rapchieuphim\\rapchieuphim\\huyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\huyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|d:\\\u0111\u1ED3 \u00E1n ltcsdl\\qlyrapchieuphim\\rapchieuphim\\rapchieuphim\\rapchieuphim\\qlphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\qlnvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlnvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\formbapnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\formbapnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\rapchieuphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\Program.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\Program.cs",
+              "RelativeToolTip": "Rapchieuphim\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:41:21.544Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QlSuatChieu.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QlSuatChieu.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QlSuatChieu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QlSuatChieu.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QlSuatChieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:37:30.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thanhtoan.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\Thanhtoan.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\Thanhtoan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\Thanhtoan.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\Thanhtoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:11:12.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLPhongChieu.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QLPhongChieu.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLPhongChieu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QLPhongChieu.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QLPhongChieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:40:54.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quanly.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\Quanly.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\Quanly.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\Quanly.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\Quanly.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:09:27.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\ChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\ChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:47:57.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmbanhang.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\frmbanhang.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\frmbanhang.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\frmbanhang.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\frmbanhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:03:44.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\NhanVien.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\NhanVien.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:14:34.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HuyHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\HuyHoaDon.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\HuyHoaDon.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\HuyHoaDon.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\HuyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:02:58.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLPhim.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QLPhim.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLPhim.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QLPhim.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QLPhim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:34:39.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLNVien.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QLNVien.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLNVien.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\QLNVien.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QLNVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:23:21.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmhome.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\frmhome.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\frmhome.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\frmhome.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\frmhome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:22:48.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmdangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\frmdangnhap.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\frmdangnhap.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\frmdangnhap.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\frmdangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:24:35.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "formbapnuoc.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\formbapnuoc.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\formbapnuoc.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n LTCSDL\\QLYRAPCHIEUPHIM\\Rapchieuphim\\Rapchieuphim\\Rapchieuphim\\formbapnuoc.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\formbapnuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:24:26.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

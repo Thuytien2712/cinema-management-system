@@ -1,0 +1,97 @@
+D:\CKLTCSDL\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\CKLTCSDL\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+D:\CKLTCSDL\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+D:\CKLTCSDL\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\CKLTCSDL\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\CKLTCSDL\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\CKLTCSDL\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\CKLTCSDL\BusinessLayer\bin\Debug\DataLayer.dll
+D:\CKLTCSDL\BusinessLayer\bin\Debug\TransferObject.dll
+D:\CKLTCSDL\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\CKLTCSDL\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\CKLTCSDL\BusinessLayer\bin\Debug\TransferObject.pdb
+D:\CKLTCSDL\BusinessLayer\bin\Debug\TransferObject.dll.config
+D:\CKLTCSDL\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\CKLTCSDL\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\CKLTCSDL\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\DataLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\TransferObject.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\TransferObject.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\bin\Debug\TransferObject.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\TransferObject.dll
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\TransferObject.pdb
+D:\Lập trình CSDL\Doan\BusinessLayer\bin\Debug\TransferObject.dll.config
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Lập trình CSDL\Doan\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\TransferObject.dll
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\TransferObject.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\bin\Debug\TransferObject.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Tmp\ok\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Tmp\ok\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Tmp\ok\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Tmp\ok\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Tmp\ok\BusinessLayer\bin\Debug\TransferObject.dll
+D:\Tmp\ok\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Tmp\ok\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\Tmp\ok\BusinessLayer\bin\Debug\TransferObject.pdb
+D:\Tmp\ok\BusinessLayer\bin\Debug\TransferObject.dll.config
+D:\Tmp\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Tmp\ok\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+D:\Tmp\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+D:\Tmp\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Tmp\ok\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\Tmp\ok\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Tmp\ok\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\TransferObject.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\TransferObject.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\TransferObject.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\BusinessLayer\bin\Debug\Zen.Barcode.Core.dll

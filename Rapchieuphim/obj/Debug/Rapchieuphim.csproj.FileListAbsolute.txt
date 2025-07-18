@@ -1,0 +1,269 @@
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.LichsuTT.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.QLMaGG.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+D:\Lập trình CSDL\Rapchieuphim\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.LichsuTT.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\BusinessLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\DataLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\TransferObject.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\BusinessLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\BusinessLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\DataLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\DataLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\TransferObject.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\bin\Debug\TransferObject.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.ChiTietHoaDon.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.formbapnuoc.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.frmbanhang.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.frmdangnhap.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.frmhome.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.HuyHoaDon.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhongChieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QlSuatChieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.Thanhtoan.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLYMaGG.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.HoaDon.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieu.37979025.Up2Date
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Rapchieuphim\obj\Debug\Rapchieuphim.QLDoan.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.ChiTietHoaDon.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.formbapnuoc.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.frmbanhang.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.frmdangnhap.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.frmhome.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.HoaDon.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.HuyHoaDon.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.LichsuTT.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhongChieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QlSuatChieu.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLDoan.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLYMaGG.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Thanhtoan.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\BusinessLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\DataLayer.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\TransferObject.dll
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\BusinessLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\BusinessLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\DataLayer.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\DataLayer.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\TransferObject.pdb
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\bin\Debug\TransferObject.dll.config
+D:\CKLTCSDL2\QLYRAPCHIEUPHIM\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CopyComplete
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\BusinessLayer.dll
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\DataLayer.dll
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\TransferObject.dll
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\BusinessLayer.pdb
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\BusinessLayer.dll.config
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\DataLayer.pdb
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\DataLayer.dll.config
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\TransferObject.pdb
+D:\Lập trình CSDL\Doan\Rapchieuphim\bin\Debug\TransferObject.dll.config
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.ChiTietHoaDon.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.formbapnuoc.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.frmbanhang.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.frmdangnhap.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.frmhome.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.HoaDon.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.HuyHoaDon.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.LichsuTT.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhongChieu.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QlSuatChieu.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLDoan.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.QLYMaGG.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.Thanhtoan.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieu.37979025.Up2Date
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+D:\Lập trình CSDL\Doan\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.ChiTietHoaDon.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.formbapnuoc.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmbanhang.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmdangnhap.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmhome.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.HoaDon.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.HuyHoaDon.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.LichsuTT.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhongChieu.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QlSuatChieu.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLDoan.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLYMaGG.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Thanhtoan.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\BusinessLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\DataLayer.dll
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\TransferObject.dll
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\BusinessLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\BusinessLayer.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\DataLayer.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\DataLayer.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\TransferObject.pdb
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\bin\Debug\TransferObject.dll.config
+C:\Users\mahai\OneDrive\Desktop\ok\Rapchieuphim\obj\Debug\Rapchieu.37979025.Up2Date
+D:\Tmp\ok\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+D:\Tmp\ok\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+D:\Tmp\ok\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+D:\Tmp\ok\Rapchieuphim\bin\Debug\BusinessLayer.dll
+D:\Tmp\ok\Rapchieuphim\bin\Debug\DataLayer.dll
+D:\Tmp\ok\Rapchieuphim\bin\Debug\TransferObject.dll
+D:\Tmp\ok\Rapchieuphim\bin\Debug\BusinessLayer.pdb
+D:\Tmp\ok\Rapchieuphim\bin\Debug\BusinessLayer.dll.config
+D:\Tmp\ok\Rapchieuphim\bin\Debug\DataLayer.pdb
+D:\Tmp\ok\Rapchieuphim\bin\Debug\DataLayer.dll.config
+D:\Tmp\ok\Rapchieuphim\bin\Debug\TransferObject.pdb
+D:\Tmp\ok\Rapchieuphim\bin\Debug\TransferObject.dll.config
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.ChiTietHoaDon.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.formbapnuoc.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmbanhang.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmdangnhap.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmhome.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.HoaDon.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.HuyHoaDon.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.LichsuTT.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhongChieu.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QlSuatChieu.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLDoan.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLYMaGG.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Thanhtoan.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieu.37979025.Up2Date
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+D:\Tmp\ok\Rapchieuphim\obj\Debug\Rapchieuphim.DatVe.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.AssemblyReference.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.exe
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\Rapchieuphim.exe.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\Rapchieuphim.exe
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\Rapchieuphim.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\BusinessLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\DataLayer.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\TransferObject.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\BusinessLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\BusinessLayer.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\DataLayer.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\DataLayer.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\TransferObject.pdb
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\TransferObject.dll.config
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.DatVe.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmbanhang.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmdangnhap.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmhome.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.LichChieu.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.NhanVien.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Phongchieu.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhongChieu.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QlSuatChieu.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Properties.Resources.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLDoan.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLKhachHang.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLNVien.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLPhim.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLTichDiem.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLYMaGG.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.Quanly.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.TimKiemPhim.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.GenerateResource.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.csproj.CoreCompileInputs.cache
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieu.37979025.Up2Date
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.formEditBH.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.FormTonKho.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.frmHoaDon.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLHoaDon.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLyDoanhThu.resources
+C:\Users\anh duong\Documents\LTCSDL\okkkk\ok\Rapchieuphim\obj\Debug\Rapchieuphim.QLyTaiKhoan.resources

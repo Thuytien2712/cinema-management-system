@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Rapchieuphim</RootNamespace>
+    <AssemblyName>Rapchieuphim</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChiTietHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChiTietHoaDon.Designer.cs">
+      <DependentUpon>ChiTietHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formbapnuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formbapnuoc.Designer.cs">
+      <DependentUpon>formbapnuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbanhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbanhang.Designer.cs">
+      <DependentUpon>frmbanhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmdangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdangnhap.Designer.cs">
+      <DependentUpon>frmdangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhome.Designer.cs">
+      <DependentUpon>frmhome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HuyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuyHoaDon.Designer.cs">
+      <DependentUpon>HuyHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLNVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLNVien.Designer.cs">
+      <DependentUpon>QLNVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLPhim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLPhim.Designer.cs">
+      <DependentUpon>QLPhim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLPhongChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLPhongChieu.Designer.cs">
+      <DependentUpon>QLPhongChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QlSuatChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QlSuatChieu.Designer.cs">
+      <DependentUpon>QlSuatChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quanly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quanly.Designer.cs">
+      <DependentUpon>Quanly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thanhtoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thanhtoan.Designer.cs">
+      <DependentUpon>Thanhtoan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChiTietHoaDon.resx">
+      <DependentUpon>ChiTietHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formbapnuoc.resx">
+      <DependentUpon>formbapnuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbanhang.resx">
+      <DependentUpon>frmbanhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdangnhap.resx">
+      <DependentUpon>frmdangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhome.resx">
+      <DependentUpon>frmhome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HuyHoaDon.resx">
+      <DependentUpon>HuyHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QLNVien.resx">
+      <DependentUpon>QLNVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLPhim.resx">
+      <DependentUpon>QLPhim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLPhongChieu.resx">
+      <DependentUpon>QLPhongChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QlSuatChieu.resx">
+      <DependentUpon>QlSuatChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quanly.resx">
+      <DependentUpon>Quanly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thanhtoan.resx">
+      <DependentUpon>Thanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quản lý.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33762a5163526d0003137bed8112570f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cinema_Illustration_Vector_Design_Images__Cinema_Vector_Illustration__Cinema_Clipart__Cinema__Icon_PNG_Image_For_Free_Download-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phongchieu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\poster-giam-gia-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile_icon-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Baixar_pipoca_fast_food_e_copo_descartável_com_refrigerante_gratuitamente-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\đăng ký lịch làm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bán vé.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lịch sử.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qlphm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rapchieu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qlynv.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
